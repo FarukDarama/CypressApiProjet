@@ -73,12 +73,9 @@ And
             cy.softAssert(response.body.completed,true,"Completed is wrong","equal");
             //Assert that "userid" is 10
             cy.softAssert(response.body.userId,10,"UserId is wrong","equal");
-        })
-    })
-
-
-
-
-
+        });
+        //Bunu kullanmazsak kalan assertion oldugu halde passed gosterir
+          cy.assertAll();
+    });
 
    });
