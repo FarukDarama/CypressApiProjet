@@ -1,0 +1,11 @@
+{
+        "statusCode":200,
+        "firstname": "Eric",
+        "lastname": "Ericsson",
+        "totalprice": 913,
+        "depositpaid": false,
+        "bookingdates": {
+            "checkin": "2016-01-31",
+            "checkout": "2022-05-03"
+        }
+}
