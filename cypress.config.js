@@ -5,7 +5,7 @@ module.exports = {
    // baseUrl:"https://jsonplaceholder.typicode.com"
     //baseUrl:"https://restful-booker.herokuapp.com"
     //baseUrl:"https://gorest.co.in"
-     baseUrl: "https://dummy.restapiexample.com"
-    // baseUrl:"https://reqres.in"
+    // baseUrl: "https://dummy.restapiexample.com"
+     baseUrl:"https://reqres.in"
   },
 };
