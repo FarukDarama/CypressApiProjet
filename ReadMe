@@ -1,0 +1,3 @@
+textData =>>> fixture
+criticalData =>>> cypress.env.json
+customMethods =>>> commands.js (soft assert methodu.... vs)
